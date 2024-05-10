@@ -1,0 +1,6 @@
+@Rafael_HostAddress = http://localhost:5126
+
+GET {{Rafael_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
